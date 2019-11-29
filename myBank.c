@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include "myBank.h"
-#define num_row 50
-#define num_col 2
+
 #define STARTING_ACCOUNT 901
 #define OPEN 1
 #define CLOSED 0
-double arr [num_row][num_col]; 
+double arr [num_row][num_col]={0}; 
 
 void open(double money)
 {
