@@ -97,7 +97,7 @@ int main()
                     {
                         double money;
                         printf(" how much money do you want to withdraw?\n");
-                        if(scanf("%lf",&money==1)
+                        if(scanf("%lf",&money)==1)
                         { 
                             if(money>=0)
                             {
