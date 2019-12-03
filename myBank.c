@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "myBank.h"
-
+//
 #define STARTING_ACCOUNT 901
 #define OPEN 1
 #define CLOSED 0
